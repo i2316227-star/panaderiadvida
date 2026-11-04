@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-label="Foto pendiente">
+  <rect width="800" height="600" fill="#E6E2D6"/>
+  <g fill="none" stroke="#B9741F" stroke-width="10" stroke-linecap="round">
+    <ellipse cx="400" cy="290" rx="170" ry="90"/>
+    <path d="M320 262l30 36M390 250l30 40M460 262l30 36"/>
+  </g>
+  <text x="400" y="450" text-anchor="middle" font-family="Arial, sans-serif" font-size="30" fill="#6B5A4B">Agrega tu foto en la carpeta img/</text>
+</svg>
